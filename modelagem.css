@@ -1,0 +1,17 @@
+@media(max-width: 1440px){
+    .home{
+        width: 20%;
+    }
+}
+
+@media(max-width:900px){
+    .home{
+        width: 35%;
+    }
+}
+
+@media(max-width: 375px){
+    .home{
+        width: 50%;
+    }
+}
